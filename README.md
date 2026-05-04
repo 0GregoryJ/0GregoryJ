@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Greg
 
-<!--
-**0GregoryJ/0GregoryJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a graduate student at **San Francisco State University** finishing an M.S. in Business Analytics (Dec 2026), with a B.S. in Mathematics from UC Santa Cruz. I build small data systems end-to-end — pipelines, models, dashboards — and I'm especially interested in the modern data stack and analytics engineering.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **[Sentiment-Reporting Gap Dashboard](https://github.com/0GregoryJ/Sentiment-Reporting-Gap)** — quantifying the gap between what people *search for* and what official economic data *reports*. Python ETL → DuckDB layered modeling → Streamlit, refreshed biweekly via Airflow.
+**[Live demo →](https://sentiment-reporting-gap.streamlit.app/)**
+
+### Tech I reach for
+
+- **Languages:** Python · SQL · JavaScript
+- **Data:** DuckDB · pandas · parquet · z-score / sigmoid normalization
+- **Orchestration:** Apache Airflow
+- **Viz:** Streamlit · Tableau
+- **Workflow:** Git · Linux · VS Code
+
+### What I'm looking for
+
+Entry-level Data, Analytics Engineering, or technical Customer Success / Solutions roles in the Bay Area (or remote). If you're hiring, I'd love to talk.
+
+### Reach me
+
+📧 gregjoshua11@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/gregjoshua)
