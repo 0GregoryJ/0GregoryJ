@@ -1,32 +1,21 @@
-## Hi, I'm Greg
+# Hi, I'm Greg
 
-Graduate student at **San Francisco State University** (M.S. Business Analytics, Dec 2026), with a **B.S. in Mathematics** from UC Santa Cruz.
+Graduate student at San Francisco State University (M.S. Business Analytics, Dec 2026), with a B.S. in Mathematics from UC Santa Cruz.
 
-I build **end-to-end analytics products** — from ingestion and modeling to orchestration, dashboards, and automated investigation workflows. I'm especially interested in **analytics engineering** and **agent-assisted data workflows**.
+I work on end-to-end analytics — cleaning and modeling messy operational data, building dashboards, and turning findings into recommendations stakeholders can use. I'm especially interested in analytics engineering and practical, agent-assisted workflows.
 
-### Featured project
+## Selected work
 
-**[AutoAnalyst](https://github.com/0GregoryJ/AutoAnalyst)** — A Docker-reproducible analytics platform for a simulated B2B SaaS business:
+**[Bay Wheels Operations Analysis](https://github.com/0GregoryJ/Bay-Wheels-Operations-Analysis)** — Tableau dashboard and executive summary on ~10.6M Bay Wheels trips (2024–2026). Covers station rebalancing, member vs. casual demand, and trip trends over time. Python pipeline from raw CSVs to summary tables for the dashboard.
 
-- Python ingestion → PostgreSQL → **dbt** marts with tests
-- **Airflow** daily pipeline
-- **Streamlit** executive dashboard
-- **AutoAnalyst agent** that flags anomalies, pulls SQL evidence, and writes investigation reports
+**[AutoAnalyst](https://github.com/0GregoryJ/AutoAnalyst)** — Reproducible analytics platform for a simulated B2B SaaS business: Python ingestion, PostgreSQL, dbt marts, Airflow, and a Streamlit dashboard, plus an agent that flags anomalies and writes investigation reports.
 
-Clone it, run `./scripts/bootstrap.sh`, and get a working dashboard in ~15 minutes.
+## Tools
 
-### Tech I work with
+Python, SQL, Tableau, PostgreSQL, DuckDB, dbt, Airflow, Docker, Streamlit, Git.
 
-**Analytics engineering:** SQL · dbt · dimensional modeling · ELT · data quality testing · metric design · lineage docs  
+## Open to
 
-**Stack:** Python · PostgreSQL · Streamlit · Airflow · Docker · Git  
+Data analytics, analytics engineering, and related roles in the Bay Area or remote.
 
-**Also familiar with:** DuckDB · BigQuery · Tableau
-
-### Open to
-
-**Data Analytics · Analytics Engineering · Data Engineering · Technical Customer Success / Solutions** roles in the **Bay Area or remote**.
-
-If you're hiring — or want to talk pipelines, dbt, or AI-assisted analytics — reach out.
-
-📧 gregjoshua11@gmail.com · 💼 [LinkedIn](your-linkedin-url)
+gregjoshua11@gmail.com · [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
