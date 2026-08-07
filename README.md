@@ -13,7 +13,7 @@ Built an ELT pipeline to ingest ~4M rows of retail event and product data into P
 
 ## Tools
 
-Python, SQL, Tableau, PostgreSQL, DuckDB, dbt, Airflow, Docker, Streamlit, Git.
+Python, PySpark, SQL, dbt, Airflow, Docker, Tableau, Streamlit, PostgreSQL, DuckDB
 
 ## Open to
 
