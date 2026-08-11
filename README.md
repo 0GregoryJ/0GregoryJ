@@ -13,10 +13,10 @@ Built an ELT pipeline to ingest ~3M rows of retail event data and ~20M rows of p
 
 ## Tools
 
-Python, PySpark, SQL, dbt, Airflow, Docker, Tableau, Streamlit, PostgreSQL, DuckDB
+Python (pandas, PySpark, pytest), SQL, dbt, Airflow, Docker, Tableau, Streamlit, PostgreSQL, DuckDB
 
 ## Open to
 
 Data analytics, analytics engineering, and related roles in the Bay Area or remote.
 
-gregjoshua11@gmail.com · [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
+gregjoshua11@gmail.com · [LinkedIn](https://www.linkedin.com/in/gregjoshua)
