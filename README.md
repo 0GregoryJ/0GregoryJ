@@ -17,6 +17,6 @@ Python (pandas, PySpark, pytest), SQL, dbt, Airflow, Docker, Tableau, Streamlit,
 
 ## Open to
 
-Data & Analytics Engineering, Business and Data Analyst, and related roles in the Bay Area or remote.
+Data & Analytics Engineering, Business and Data Analyst, and related roles in the Bay Area, or possibly nationwide.
 
 [My Resume](https://drive.google.com/file/d/1-8Shkts4QoL5MDolbvrYMQL4fiGsE30e/view?usp=sharing) · gregjoshua11@gmail.com · [LinkedIn](https://www.linkedin.com/in/gregjoshua)
