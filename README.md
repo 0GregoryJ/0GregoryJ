@@ -15,8 +15,8 @@ Built an ELT pipeline to ingest ~3M rows of retail event data and ~20M rows of p
 
 Python (pandas, PySpark, pytest), SQL, dbt, Airflow, Docker, Tableau, Streamlit, PostgreSQL, DuckDB
 
-## Open to
+## Information
 
-Data & Analytics Engineering, Business and Data Analyst, and related roles in the Bay Area, or possibly nationwide.
+Open to Data & Analytics Engineering, Business and Data Analyst, and related roles in the Bay Area, or possibly nationwide.
 
-[My Resume](https://gregoryjoshua.com/assets/resume/Gregory-Joshua-Resume.pdf) · gregjoshua11@gmail.com · [LinkedIn](https://www.linkedin.com/in/gregjoshua)
+[My Resume](https://gregoryjoshua.com/assets/resume/Gregory-Joshua-Resume.pdf) · gregjoshua11@gmail.com · [LinkedIn](https://www.linkedin.com/in/gregjoshua) · [gregoryjoshua.com](https:/gregoryjoshua.com)
