@@ -19,4 +19,4 @@ Python (pandas, PySpark, pytest), SQL, dbt, Airflow, Docker, Tableau, Streamlit,
 
 Data & Analytics Engineering, Business and Data Analyst, and related roles in the Bay Area, or possibly nationwide.
 
-[My Resume](gregoryjoshua.com/assets/resume/Gregory-Joshua-Resume.pdf) · gregjoshua11@gmail.com · [LinkedIn](https://www.linkedin.com/in/gregjoshua)
+[My Resume](https://gregoryjoshua.com/assets/resume/Gregory-Joshua-Resume.pdf) · gregjoshua11@gmail.com · [LinkedIn](https://www.linkedin.com/in/gregjoshua)
