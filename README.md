@@ -2,7 +2,7 @@
 
 I'm a graduate student at San Francisco State University (M.S. Business Analytics, Dec 2026), with a B.S. in Mathematics from UC Santa Cruz.
 
-As an aspiring data & analytics engineer, I'm interested ELT/ETL systems, as well as data modeling and BI logic. Check out the projects I've worked on recently, and please contact me if you'd like to work together or just want to talk data!
+As an aspiring data engineer and analyst, I'm interested ELT/ETL systems, as well as data modeling and BI logic. Check out the projects I've worked on recently, and please contact me if you'd like to work together or just want to talk data!
 
 ## Selected work
 
