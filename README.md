@@ -1,8 +1,12 @@
-# Hi, I'm Greg
+# Hi there, I'm Greg
 
-I'm a graduate student at San Francisco State University (M.S. Business Analytics, Dec 2026), with a B.S. in Mathematics from UC Santa Cruz.
+## Data & BI Analyst | Data Engineer
+gregjoshua11@gmail.com | [LinkedIn](https://linkedin.com/in/gregjoshua)
 
-As an aspiring data engineer and analyst, I'm interested ELT/ETL systems, as well as data modeling and BI logic. Check out the projects I've worked on recently, and please contact me if you'd like to work together or just want to talk data!
+## About Me
+M.S. Business Analytics candidate with experience building end-to-end analytics workflows using SQL, Python, dbt, Excel, and BI tools. Hands-on experience with predictive modeling, dashboarding, and operational analysis across healthcare, education, and e-commerce data, translating findings into stakeholder-facing presentations and process improvements.
+
+Contact me if you'd like to work together or just want to talk data!
 
 ## Selected work
 
@@ -11,12 +15,12 @@ Built an ELT pipeline to ingest ~3M rows of retail event data and ~20M rows of p
 
 **[Bay Wheels Operations Analysis](https://github.com/0GregoryJ/Bay-Wheels-Operations-Analysis)** — Tableau dashboard and executive summary on ~10.6M Bay Wheels trips (2024–2026). Covers station rebalancing, member vs. casual demand, and trip trends over time. Python pipeline from raw CSVs to summary tables for the dashboard.
 
+## [My Resume](https://gregoryjoshua.com/assets/resume/Gregory-Joshua-Resume.pdf) 
+
 ## Tools
 
-Python (pandas, PySpark, pytest), SQL, dbt, Airflow, Docker, Tableau, Streamlit, PostgreSQL, DuckDB
+Python (pandas, PySpark, pytest), SQL, dbt, Airflow, Docker, Tableau, Streamlit, PostgreSQL, DuckDB, Excel
 
 ## Information
 
-Open to Data & Analytics Engineering, Business and Data Analyst, and related roles in the Bay Area, or possibly nationwide.
-
-[My Resume](https://gregoryjoshua.com/assets/resume/Gregory-Joshua-Resume.pdf) · gregjoshua11@gmail.com · [LinkedIn](https://www.linkedin.com/in/gregjoshua) · [gregoryjoshua.com](https:/gregoryjoshua.com)
+Open to Data & Analytics Engineering, Business and Data Analyst, and related roles in the Bay Area, or nationwide.
